@@ -1,1 +1,4 @@
 # SGD__Tucker
+
+make
+
